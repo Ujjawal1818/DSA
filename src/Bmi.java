@@ -9,6 +9,7 @@ public class Bmi {
 
         double bmi = weight / (height * height);
 
+
         System.out.printf("%.2f", bmi);
     }
 }
